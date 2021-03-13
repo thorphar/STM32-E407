@@ -1,2 +1,2 @@
 # STM32-E407
-A micro-ROS etherenet based physical device.
+A micro-ROS ethernet based physical device.
